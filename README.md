@@ -40,7 +40,7 @@ A GUI Based Android RAT, powered by SpyMax
  - Java 8+
  - Internet
 
-## Installation ON VPS & PC
+## Installation ON Windows
 
 1. Download [DroidSpy2](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/) Zip File In Windows
 
