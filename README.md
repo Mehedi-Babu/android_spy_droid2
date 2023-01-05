@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AndroidHacker2023/DroidSpy2/blob/main/droidspy2.mp4" height="60"><br>
+<img src="https://github.com/AndroidHacker2023/DroidSpy2/blob/main/droidspy2.gif" height="60"><br>
 A GUI Based Android RAT, powered by SpyMax
 </p>
 
