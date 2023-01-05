@@ -31,7 +31,7 @@
 - Anti-Reset
 - Anti-Force Stop
 - Anti-Stop Service
-- Ultra Persistent
+- Auto Start 
 - Support Android 13
 
 
