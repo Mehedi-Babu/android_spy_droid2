@@ -29,12 +29,12 @@
 - Auto Start 
 - Anti-Uninstall
 - Support Android 13
-- Anti-Reset(Blackwood Users)
-- Anti-Force Stop(Blackwood Users)
-- Anti-Stop Service(Blackwood Users)
-- Ultra Persistent(Blackwood Users)
-- Block Play Protect(Blackwood Users)
-- Block Antivirus(Blackwood Users)
+- <b>Anti-Reset (Blackwood Users)
+- Anti-Force Stop (Blackwood Users)
+- Anti-Stop Service (Blackwood Users)
+- Ultra Persistent (Blackwood Users)
+- Block Play Protect (Blackwood Users)
+- Block Antivirus (Blackwood Users)</b>
 
 ## More Advanced
 <b>if you want to see more advanced Hacking tools & Videos then you can visit our [Website](https://shop-linuxndroid.in/)
