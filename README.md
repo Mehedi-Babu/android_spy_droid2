@@ -5,8 +5,6 @@
 
 <a href="#"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN%20-INDIA-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20-Source%20%F0%9F%98%8E-yellowgreen?style=for-the-badge"></a>
-
 ## A Fully GUI Based Android RAT Work On Android 13
 
 ## Features
@@ -28,16 +26,21 @@
 - Webview Url Add
 - Package Cloner
 - Auto Allow Permission
-- Anti-Uninstall
-- Anti-Reset
-- Anti-Force Stop
-- Anti-Stop Service
 - Auto Start 
+- Anti-Uninstall
 - Support Android 13
+- Anti-Reset(Blackwood Users)
+- Anti-Force Stop(Blackwood Users)
+- Anti-Stop Service(Blackwood Users)
+- Ultra Persistent(Blackwood Users)
+- Block Play Protect(Blackwood Users)
+- Block Antivirus(Blackwood Users)
 
 ## More Advanced
 <b>if you want to see more advanced Hacking tools & Videos then you can visit our [Website](https://shop-linuxndroid.in/)
 
+## Contact Linuxndroid
+<b>Chat on [Telegram](https://t.me/Linuxndroid/)</b>
 ## Prerequisites 
  - Windows 10 & 11
  - Java 8+
