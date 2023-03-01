@@ -57,7 +57,7 @@
 
 4. Select Port You Want & Enjoy
 
-## How To Use 👉 [Youtube Video](https://youtu.be/mSNmaAnno6A)
+## How To Use 👉 [Checkout](https://shop-linuxndroid.in/product/old-android-course-by-linuxndroid/)
 
 ## Happy Hacking
 ## Disclaimer
