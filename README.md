@@ -55,7 +55,13 @@
 
 3. After Unzip Run DroidSpy V2.exe
 
-4. Select Port You Want & Enjoy
+4. Select Listening Port You Want
+
+5. Build A Client APK (Virus) Use Your PC/RDP Public IP or Same Port for Listening 
+
+6. Install Client APK Your Android Phone
+
+7. Now done see connection got it & Enjoy Red Teamer.
 
 ## How To Use 👉 [Checkout](https://shop-linuxndroid.in/product/old-android-course-by-linuxndroid/)
 
