@@ -54,7 +54,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT1KosC0EVBo95yPOlf4IAL5eEs4FVLwnLPTrP9CPF8HBFjr7LyGZ-8xDS0XhjvB0k_FBiN5eo7dcOOA9R6A4hKcEyOrwOtdoMWOULrE33CtEYsXsujWXyKT_esjKu86xTwa1JK_Ubbyq522EUjj9dZq630Mte7WiKAnz748Yi7AK2C2nOAtATzOGRgA/s16000/3.png" height="300"><br>
 
 ## Step-4
-- Don't skip this Now add Your IP or Port (step-2 added) if you do Out-Of-Network Then use RDP Server
+- Don't skip this Now add Your IP or Port (step-2 added) if you do Out-Of-Network Then use [RDP Server](https://github.com/LinuxndroidTeam/4GB-RDP) 
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqd4cenOSbEzrnFTOR2eoDB1SeabAdqpMp8Z1Na195ZWgFrP0QuHOSMQpZdTT-dkFhzBoGQh6g617LXbwsHV1WlJ9Soqj7euYL0wzWHyqxy2pzUy67Vi6EPD7ZTiKq4mrxQrf1Y8HJuNC_IvWQCbdIS05Tt2kVfE6WDtd2z_Hw_r824f3aJOU5jsaXKg/s16000/7.png" height="300"><br>
 
@@ -68,7 +68,7 @@
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqEl_YJjGhZqAo3jUNqLWAW9XG9utF_z_xakhDEbgvyY-223QijJxNPZn2c8pQZ-Lc0Dl90okhAa3mJboGKDK5QsgLu7-yw3q2RO9saUym7dwAq82d0SEkq9ls2MoBcwXf4CuTtKQdp0meKqa5IdqFZe5cPrJuxZqb2cQCISWT_dbO3fgPFkSgWR0pbQ/s16000/6.png" height="300"><br>
 
-
+## Checkout More Advanced [Android Hacking RAT](https://shop-linuxndroid.in/product/craxsrat/)
 
 ## [Blackwood](https://shop-linuxndroid.in/product/blackwood/)
 ## More Advanced
@@ -81,23 +81,6 @@
  - Java 8+
  - Internet
 
-## Installation ON Windows
-
-1. Download [DroidSpy2](https://github.com/LinuxndroidTeam/DroidSpy2/releases/download/DroidSpyV2/droidspy2.zip) Zip File In Windows
-
-2. Unzip & Off Defender Security(Don't Worry Because Defender Flagged RAT File)
-
-3. After Unzip Run DroidSpy V2.exe
-
-4. Select Listening Port You Want
-
-5. Build A Client APK (Virus) Use Your PC/RDP Public IP or Same Port for Listening 
-
-6. Install Client APK Your Android Phone
-
-7. Now done see connection got it & Enjoy Red Teamer.
-
-## More Advanced Android RAT 👉 [Checkout](https://shop-linuxndroid.in/product/craxsrat/)
 
 ## Happy Hacking
 ## Disclaimer
