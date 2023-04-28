@@ -40,7 +40,7 @@
 
 - Download And Extract Zip file and Run droispy2.exe
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVtc-U-n7sT_vM_H42WHv8fLMFMbM0L3AUxV5CAGTgo-20W52k6uJlqK-8KHXycH5Hw0n4wRe5FU7BZDpwSs4XpCQ_NfqOewqcB3LLqcm50A-8LNyHN7bJXOVd74yaWYaMHEWcDKzLbg16iLPZB-mqhrZozgmB_J3bQkpZ_zueQShvs-hSlOtY9Cqyg/s16000/1.png" width="300" height="100"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVtc-U-n7sT_vM_H42WHv8fLMFMbM0L3AUxV5CAGTgo-20W52k6uJlqK-8KHXycH5Hw0n4wRe5FU7BZDpwSs4XpCQ_NfqOewqcB3LLqcm50A-8LNyHN7bJXOVd74yaWYaMHEWcDKzLbg16iLPZB-mqhrZozgmB_J3bQkpZ_zueQShvs-hSlOtY9Cqyg/s16000/1.png" width="600" height="300"><br>
 
 ## Step-2
 - After run select port you want or add port (make sure remember port number)
