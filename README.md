@@ -40,33 +40,33 @@
 
 - Download And Extract Zip file and Run droispy2.exe
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVtc-U-n7sT_vM_H42WHv8fLMFMbM0L3AUxV5CAGTgo-20W52k6uJlqK-8KHXycH5Hw0n4wRe5FU7BZDpwSs4XpCQ_NfqOewqcB3LLqcm50A-8LNyHN7bJXOVd74yaWYaMHEWcDKzLbg16iLPZB-mqhrZozgmB_J3bQkpZ_zueQShvs-hSlOtY9Cqyg/s320/1.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVtc-U-n7sT_vM_H42WHv8fLMFMbM0L3AUxV5CAGTgo-20W52k6uJlqK-8KHXycH5Hw0n4wRe5FU7BZDpwSs4XpCQ_NfqOewqcB3LLqcm50A-8LNyHN7bJXOVd74yaWYaMHEWcDKzLbg16iLPZB-mqhrZozgmB_J3bQkpZ_zueQShvs-hSlOtY9Cqyg/s16000/1.png" height="300"><br>
 
 ## Step-2
 - After run select port you want or add port (make sure remember port number)
 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxAQP_9nJ3DtcxwIgOeRnKRg1CeXDCvZFy9EvYYVg7rAm3Z7ptXc4k7MsIEQx5e_-budLbtYqOl1wKfYklfEHaYkR4KS4BaU-ueqd-OnwjNAnEd38Xqu2NlDVOJWqyKh3IzNoO64kj_7z87H1gTEp6outINcA3KBW4HEgSSG7ObanNBnHRZWAspN6sVg/s320/2.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiUfOon2K-g-x-sV-GQ_JCW2u1hiLdkra2HPJQYMRT7fZSyj-GZURHxVbtsnIrM_j8KyKl5zjK_9usqQBelH6wLTVe3vJA0lS-RuRotFrKOsf1e34lR0YEnkcK_m3Q4LaSLqONujrm3C2jSfpo2xxzB9jCnVjBDvnP7nhREeYSNJrUGloMs07OLD-TrA/s16000/2.png" height="300"><br>
 
 ## Step-3
 - And now click on top icon and click Build Button (for apk build)
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT1KosC0EVBo95yPOlf4IAL5eEs4FVLwnLPTrP9CPF8HBFjr7LyGZ-8xDS0XhjvB0k_FBiN5eo7dcOOA9R6A4hKcEyOrwOtdoMWOULrE33CtEYsXsujWXyKT_esjKu86xTwa1JK_Ubbyq522EUjj9dZq630Mte7WiKAnz748Yi7AK2C2nOAtATzOGRgA/s320/3.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT1KosC0EVBo95yPOlf4IAL5eEs4FVLwnLPTrP9CPF8HBFjr7LyGZ-8xDS0XhjvB0k_FBiN5eo7dcOOA9R6A4hKcEyOrwOtdoMWOULrE33CtEYsXsujWXyKT_esjKu86xTwa1JK_Ubbyq522EUjj9dZq630Mte7WiKAnz748Yi7AK2C2nOAtATzOGRgA/s16000/3.png" height="300"><br>
 
 ## Step-4
 - Don't skip this Now add Your IP or Port (step-2 added) if you do Out-Of-Network Then use RDP Server
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqd4cenOSbEzrnFTOR2eoDB1SeabAdqpMp8Z1Na195ZWgFrP0QuHOSMQpZdTT-dkFhzBoGQh6g617LXbwsHV1WlJ9Soqj7euYL0wzWHyqxy2pzUy67Vi6EPD7ZTiKq4mrxQrf1Y8HJuNC_IvWQCbdIS05Tt2kVfE6WDtd2z_Hw_r824f3aJOU5jsaXKg/s320/7.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqd4cenOSbEzrnFTOR2eoDB1SeabAdqpMp8Z1Na195ZWgFrP0QuHOSMQpZdTT-dkFhzBoGQh6g617LXbwsHV1WlJ9Soqj7euYL0wzWHyqxy2pzUy67Vi6EPD7ZTiKq4mrxQrf1Y8HJuNC_IvWQCbdIS05Tt2kVfE6WDtd2z_Hw_r824f3aJOU5jsaXKg/s16000/7.png" height="300"><br>
 
 ## Step-5
-Now select stub apk file app-payload-debug.apk 
+- Now select stub apk file app-payload-debug.apk 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNWNK2Cis_rNVadAHQjRSLEqpVLjai25ky5rZSrj2Uf9TgmZAMj9CVD3PfRitB2Nv-U8ola-6C1qePRI7pwaiTO9tEXLi-SSztGKEzkqFhkdDhDFo715Yp6h8l7KCFIACEFFuPdzfQ-kk6d_vkKl2pMKMTTleDVG-o2sddx0Ph74D9TjWNg8nXyPsbg/s320/5.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNWNK2Cis_rNVadAHQjRSLEqpVLjai25ky5rZSrj2Uf9TgmZAMj9CVD3PfRitB2Nv-U8ola-6C1qePRI7pwaiTO9tEXLi-SSztGKEzkqFhkdDhDFo715Yp6h8l7KCFIACEFFuPdzfQ-kk6d_vkKl2pMKMTTleDVG-o2sddx0Ph74D9TjWNg8nXyPsbg/s16000/5.png" height="300"><br>
 
 ## Final Step
 - now ready your virus apk (ready.apk) if someone install this apk it gets hacked.
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqEl_YJjGhZqAo3jUNqLWAW9XG9utF_z_xakhDEbgvyY-223QijJxNPZn2c8pQZ-Lc0Dl90okhAa3mJboGKDK5QsgLu7-yw3q2RO9saUym7dwAq82d0SEkq9ls2MoBcwXf4CuTtKQdp0meKqa5IdqFZe5cPrJuxZqb2cQCISWT_dbO3fgPFkSgWR0pbQ/s320/6.png" height="300"><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqEl_YJjGhZqAo3jUNqLWAW9XG9utF_z_xakhDEbgvyY-223QijJxNPZn2c8pQZ-Lc0Dl90okhAa3mJboGKDK5QsgLu7-yw3q2RO9saUym7dwAq82d0SEkq9ls2MoBcwXf4CuTtKQdp0meKqa5IdqFZe5cPrJuxZqb2cQCISWT_dbO3fgPFkSgWR0pbQ/s16000/6.png" height="300"><br>
 
 
 
